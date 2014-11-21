@@ -1,6 +1,6 @@
 fLibs
 =====
-a mad lib style game app
+a mad libs style game app
 
 Items to add: <br>
 the ability to share the finished Mab Lib <br>
