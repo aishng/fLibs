@@ -1,0 +1,45 @@
+body {
+	background: #E9CFEC;
+	font-family: Helvetica;
+}
+
+.container {
+	width: 50%;
+    margin: 0 auto;
+}
+
+.innerContainer {
+	width: 50%;
+    margin: 0 auto;
+}
+
+h2 {
+	color: #5F04B4;
+}
+
+input {
+	border-radius: 3px;
+	margin: 3px;
+	font-size: 1.25em;
+	display: block;
+}
+
+button {
+	border-radius: 5px;
+	margin: 10px;
+	color: #5F04B4;
+	font-size: 1.25em;
+	font-family: Helvetica;
+}
+
+.title {
+	color: #FF0080;
+	text-decoration: underline;
+}
+
+.story {
+	font-size: 1.25em;
+	margin: 5px;
+	padding: 5px;
+	color: #5F04B4;
+}
